@@ -1,0 +1,1 @@
+#In verband met burger schap week en quarantaine, Is het commiten een beetje weg gevallen, Daarom heb ik alles in een keer nu gecommit tot en met een begin van yahtzee. ( ik had ook problemen met commiten maar stijn heeft daar bij gehlopen.
